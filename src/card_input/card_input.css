@@ -1,0 +1,9 @@
+.card_input {
+    display: flex;
+}
+
+.card_input > input {
+    text-align: center;
+    font-size: 25px;
+    margin: 5px;
+}
